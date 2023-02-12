@@ -6,8 +6,8 @@ At the end of the project you should be able to explain to anyone
 
 * What is Vagrant
 
-* Who wrote Vagran
-t
+* Who wrote Vagrant
+
 * What is Ubuntu
 
 * What does “Ubuntu” mean
